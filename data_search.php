@@ -7,23 +7,23 @@ class Data
 {
     public function search()
     {
-	    if($fh = fopen(PW_INPUT_STREAM, 'r')){
-	      while (!feof($fh)){
-	         $line = stream_get_line($fh, 1024, "\n");
-	         //$line = fread($fh, 100);
-	         list($val1, $val2, $val3) = explode(' ', trim($line));
-		     if ($val1 + $val2 == $val3) {
-                $logStr = sprintf(
-                    "%s %s %s",
-                    $val1,
-                    $val2,
-                    $val3
-                );
-                echo $logStr.'<br/>';
-             }
-	      }
-	      fclose($fh);
+	if($fh = fopen(PW_INPUT_STREAM, 'r')){
+	    while (!feof($fh)){
+		$line = stream_get_line($fh, 1024, "\n");
+	        //$line = fread($fh, 100);
+	        list($val1, $val2, $val3) = explode(' ', trim($line));
+		if ($val1 + $val2 == $val3){
+                        $logStr = sprintf(
+                        "%s %s %s",
+                        $val1,
+                        $val2,
+                        $val3
+                    );
+                    echo $logStr.'<br/>';
+            	}
 	    }
+	    fclose($fh);
+	}
     }
 }
 
