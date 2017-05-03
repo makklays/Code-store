@@ -7,7 +7,7 @@ require __DIR__ . '/lib/lib.php';
 use Lib\A;
 
 $obj = new A();
-$obj->setTitle('I am Kuziv A.');
+$obj->setTitle('I am KuzivA ');
 
 echo $obj->getTitle();
 
