@@ -39,3 +39,5 @@ foreach($properties as $prop){
     echo $prop->newInstance();
     echo $prop->newInstanceWithoutConstructor();
 }
+
+
