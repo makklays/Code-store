@@ -32,6 +32,7 @@ $objectReflector = new ReflectionObject($blogs);
 $properties = $objectReflector->getProperties();
 var_dump($properties);
 
+// 
 foreach($properties as $prop){
     echo $prop->getName();
     echo $prop->getMethods();
@@ -39,5 +40,4 @@ foreach($properties as $prop){
     echo $prop->newInstance();
     echo $prop->newInstanceWithoutConstructor();
 }
-
 
