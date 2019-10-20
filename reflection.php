@@ -24,7 +24,7 @@ echo $funcReflactor->getDocComment();
 // reflection class
 $classReflector = new ReflectionClass('class_name');
 
-// reflection object
+//  reflection object
 $blogs = Blog::getById($id);
 
 $objectReflector = new ReflectionObject($blogs);
