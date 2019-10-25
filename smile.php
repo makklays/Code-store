@@ -1,3 +1,3 @@
 <?php
-echo 'I am laugh with you!'; // native speaker
+echo 'I am laugh with you!'; // native speaker 
 ?>
