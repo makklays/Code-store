@@ -47,3 +47,23 @@ function stringText (string $text = ''): bool
     $result = strlen($text) > 0 ? true : false;
     return $result;
 }
+
+class A {}
+class B extends A {}
+class C
+{
+    public function test() : A
+    {
+        return new A;
+    }
+}
+class D extends C
+{
+    public function test() : B // Fatal error
+    {
+        return new B;
+    }
+}
+// Объявление метода D::test() : B вызовет E_COMPILE_ERROR так как многовариантность не дозволена
+// Чтобы D:test() заработал нужно указать что-то нечто A 
+
