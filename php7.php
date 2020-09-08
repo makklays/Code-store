@@ -32,3 +32,18 @@ $obj->logger(new class(10) extends Class2 implements BaseInterface {
     use myTrait;
 });
 
+// добавлена возможность указать тип переменной, возвращаемой функции или метода, замыкания
+// поддерживаются следующие типы:
+// string, int, float, bool, array, callable, self (в методах), parent (только методы), Closure,
+// Имя класа, Имя интерфейса
+
+function plus2 (int $num): int
+{
+    return ($num + 2);
+}
+
+function stringText (string $text = ''): bool
+{
+    $result = strlen($text) > 0 ? true : false;
+    return $result;
+}
