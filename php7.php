@@ -10,10 +10,12 @@ declare(strict_types=1);
 use my\namespace\{class1, class2 as bb};
 
 class Class2 {}
+class Loh {}
 interface BaseInterface {}
 trait myTrait {}
 
 // анонимные классы
+$obj = new Loh();
 $obj->logger(new class(10) extends Class2 implements BaseInterface {
     private $number;
     private $hh;
