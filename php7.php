@@ -71,4 +71,5 @@ class D extends C
 var_dump(intdiv(10, 3)); // return int(3)
 // функция intdiv() делит числа, результат получаем целое число
 
+//
 
