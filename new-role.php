@@ -1,7 +1,7 @@
 <?php
 /**
  * Author: Alexander Kuziv
- * E-mail: makklays@gmail.com
+ * E-mail: makklays@gmail.com, alexander@makklays.com.ua
  * Description: Looking for a new job Developer PHP
  **/
 
