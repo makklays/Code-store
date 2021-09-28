@@ -8,6 +8,7 @@
 
 function newRole()
 {
+    // quiero tener como Desarrollador PHP 
     return {
         'position': 'FullStack Developer PHP',
         'salary_min': '3000',
@@ -16,4 +17,18 @@ function newRole()
         'location': 'office',
         'notify': 'sms,email,phone'
     }
+}
+
+function queNecesitaSaber()
+{
+    // tengo list pequeño 
+    return [
+        '1' => 'front-end',
+        '2' => 'back-end',
+        '3' => 'javascript',
+        '4' => 'node.ja o react.js o vue.js',
+        '5' => 'php ultima version ocho',
+        '6' => 'rest full api',
+        '7' => 'html5 css3 div y flex se maqueta las paginas webs',
+    ];
 }
