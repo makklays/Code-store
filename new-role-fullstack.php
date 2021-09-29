@@ -32,3 +32,13 @@ function queNecesitaSaber()
         '7' => 'html5 css3 div y flex se maqueta las paginas webs',
     ];
 }
+
+function queNecesitaHacer()
+{
+    // tengo list pequeño
+    echo [
+        '1' => 'piensa',
+        '2' => 'programa',
+        '3' => 'se proba',
+    ];
+}
