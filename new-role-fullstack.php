@@ -8,7 +8,7 @@
 
 class FullStack
 {
-    function newRole()
+    public function newRole()
     {
         // quiero tener como Desarrollador PHP 
         return {
@@ -21,7 +21,7 @@ class FullStack
         }
     }
 
-    function queNecesitaSaber()
+    public function queNecesitaSaber()
     {
         // tengo list pequeño 
         return [
@@ -35,13 +35,23 @@ class FullStack
         ];
     }
 
-    function queNecesitaHacer()
+    public function queNecesitaHacer()
     {
         // tengo list pequeño
         echo [
             '1' => 'piensa',
             '2' => 'programa',
             '3' => 'se proba',
+        ];
+    }
+    
+    public function otrosAcciones()
+    {
+        // algunas acciones
+        return [
+            '1' => 'toma café o té',
+            '2' => 'escucha musica y mira video',
+            '3' => 'habla con unas collegas',
         ];
     }
 }
