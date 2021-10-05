@@ -17,7 +17,8 @@ class FullStack
             'salary_max': '5500',
             'salary_currency': 'USD',
             'location': 'office',
-            'notify': 'sms,email,phone'
+            'notify': 'sms,email,phone',
+            'experiencia': 'más 2 años',
         }
     }
 
