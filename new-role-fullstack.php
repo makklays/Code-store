@@ -6,8 +6,19 @@
  * Description: Looking for a new job FullStack Developer PHP
  **/
 
+namespace makklays/newrole;
+
+trait Note()
+{
+    return [
+        'note' => 'algo texto',
+    ];
+}
+
 class FullStack
 {
+    use Note;
+    
     public function newRole()
     {
         // quiero tener como Desarrollador PHP 
