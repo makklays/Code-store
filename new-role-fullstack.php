@@ -67,3 +67,6 @@ class FullStack
         ];
     }
 }
+
+$fullStack = FullStack();
+
