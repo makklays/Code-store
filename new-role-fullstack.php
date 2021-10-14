@@ -51,7 +51,7 @@ class FullStack implements RoleInterface
             '4' => 'node.ja o react.js o vue.js',
             '5' => 'php ultima version ocho',
             '6' => 'rest full api',
-            '7' => 'html5 css3 div y flex se maqueta las paginas webs',
+            '7' => 'html5 css3 sass div y flex se maqueta las paginas webs',
         ];
     }
 
