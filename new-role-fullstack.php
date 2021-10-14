@@ -8,6 +8,14 @@
 
 namespace makklays/newrole;
 
+interface RoleInterface 
+{
+    public function newRole();
+    public function queNecesitaSaber();
+    private function queNecesitaHacer();
+    public function otrosAcciones();
+}
+
 trait Note()
 {
     return [
@@ -15,7 +23,7 @@ trait Note()
     ];
 }
 
-class FullStack
+class FullStack implements RoleInterface
 {
     use Note;
     
@@ -47,7 +55,7 @@ class FullStack
         ];
     }
 
-    public function queNecesitaHacer()
+    private function queNecesitaHacer()
     {
         // tengo list pequeño
         echo [
