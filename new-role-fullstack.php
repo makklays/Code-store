@@ -20,6 +20,7 @@ trait Note()
 {
     return [
         'note' => 'algo texto',
+        'note más' => 'algo texto más',
     ];
 }
 
