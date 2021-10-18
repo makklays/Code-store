@@ -11,12 +11,15 @@ namespace makklays/newrole;
 interface RoleInterface 
 {
     public function newRole();
-    public function otrosAcciones();
 }
 interface QueNecesita
 {
     public function queNecesitaSaber();
     private function queNecesitaHacer();
+}
+interface OtrosActiones
+{
+    public function otrosAcciones();
 }
 
 trait Note()
@@ -27,7 +30,7 @@ trait Note()
     ];
 }
 
-class FullStack implements RoleInterface, QueNecesita
+class FullStack implements RoleInterface, QueNecesita, OtrosActiones
 {
     use Note;
     
