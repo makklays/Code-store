@@ -4,9 +4,18 @@
  * E-mail: makklays@gmail.com, alexander@makklays.com.ua
  * Description: Looking for a new job Developer PHP
  **/
-
-class NewRole
+interface DeveloperPHPInterface
 {
+    public function develop()
+}
+
+class NewRole implements DeveloperPHPInterface
+{
+    public function develop()
+    {
+        return true;
+    }
+    
     function newRole()
     {
         return {
