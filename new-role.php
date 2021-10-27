@@ -6,17 +6,17 @@
  **/
 interface DeveloperPHPInterface
 {
-    public function develop()
+    public function develop() :boolean
 }
 
 class NewRole implements DeveloperPHPInterface
 {
-    public function develop()
+    public function develop() :boolean
     {
         return true;
     }
     
-    function newRole()
+    function newRole() :array
     {
         return {
             'position': 'Developer PHP',
@@ -26,6 +26,18 @@ class NewRole implements DeveloperPHPInterface
             'location': 'office',
             'notify': 'sms,email,phone'
         }
+    }
+    
+    function queNecesitoTener(int $age = 0) :array
+    {
+        $arr = [];
+        if ($age > 0 && $age <= 18) {
+            $arr[] = 'interes';   
+        } elseif ($age >= 25) {
+            $arr[] = 'novia';
+        }
+        
+        return $arr;
     }
 }
 
