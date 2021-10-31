@@ -23,6 +23,7 @@ class NewRole implements DeveloperPHPInterface
             'salary_min': '1500',
             'salary_max': '4500',
             'salary_currency': 'USD',
+            'experiencia': '14 años', 
             'location': 'office',
             'notify': 'sms,email,phone'
         }
