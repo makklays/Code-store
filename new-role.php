@@ -45,7 +45,7 @@ class NewRole implements DeveloperPHPInterface
         } elseif ($age >= 30) {
             $arr[] = 'experiencia';   
         } elseif ($age >= 33) {
-            $arr[] = 'patiencia';   
+            $arr[] = 'paciencia';   
         }
         
         return $arr;
