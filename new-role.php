@@ -54,6 +54,40 @@ class NewRole implements DeveloperPHPInterface
         
         return $arr;
     }
+    
+    /**
+     * Count days for my project ?
+     */
+    public function cuantosDiasHacerProecto($necesitaHoras = 0) {
+        
+        if ($necesitaHoras <= 0) return 0;
+        
+        $horas[
+            'lunes' => 0,
+            'martes' => 2,
+            'miercoles' => 0,
+            'jueves' => 1,
+            'viernes' => 1,
+            'sabado' => 0,
+            'domingo' => 10,
+        ];
+        
+        // $dias = ceil($necesitaHoras / array_sum($horas)); // tonto =-)
+        
+        $days = 0;
+        
+        while($necesitaHoras >= 0) {
+            foreach($horas as $d => $horasMias) {
+                if ($horasMias <= 0) continue;
+                if ($necesitaHoras <= 0) continue;
+                
+                $necesitaHoras = $necesitaHoras - $horasMias;
+                $days++;
+            }
+        }
+        
+        return $days; 
+    }
 }
 
 ?>
