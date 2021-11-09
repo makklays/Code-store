@@ -88,6 +88,20 @@ class NewRole implements DeveloperPHPInterface
         
         return $days; 
     }
+    
+    /**
+     * 
+     */
+    public function cowIT($food)
+    {
+        if ($food <= 0) {
+            $milk = 0;   
+        } else if ($food >= 0) {
+            $milk = ceil( $food / 3 );   
+        }
+        
+        return $milk;   
+    }
 }
 
 ?>
