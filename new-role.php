@@ -92,7 +92,7 @@ class NewRole implements DeveloperPHPInterface
     /**
      * A cow in IT
      */
-    public function cowIT($food)
+    public function cowIT($food): int
     {
         if ($food <= 0) {
             $milk = 0;   
@@ -101,6 +101,16 @@ class NewRole implements DeveloperPHPInterface
         }
         
         return $milk;   
+    }
+    
+    /**
+     * 
+     */
+    private function FindShortPath(): string
+    {
+        $texto = 'directo';
+        
+        return $texto;   
     }
 }
 
