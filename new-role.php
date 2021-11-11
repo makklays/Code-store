@@ -90,7 +90,7 @@ class NewRole implements DeveloperPHPInterface
     }
     
     /**
-     * 
+     * A cow in IT
      */
     public function cowIT($food)
     {
