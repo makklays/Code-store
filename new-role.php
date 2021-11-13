@@ -16,6 +16,9 @@ class NewRole implements DeveloperPHPInterface
         return true;
     }
     
+    /**
+     * Description the new role 
+     */
     function newRole() :array
     {
         return {
@@ -104,13 +107,13 @@ class NewRole implements DeveloperPHPInterface
     }
     
     /**
-     * 
+     * Finding a shortcut to success. 
      */
-    private function FindShortPath(): string
+    private function FindingShortcut(): string
     {
-        $texto = 'directo';
+        $texto = 'directo'; // Прямой 
         
-        return $texto;   
+        return $texto;
     }
 }
 
