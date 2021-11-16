@@ -119,9 +119,9 @@ class NewRole implements DeveloperPHPInterface
     // Next - 15.11.2021 - 23 meses
     
     /**
-     * Protect
+     * Invisible Protect
      */
-    protected function Protected(): string
+    protected function Invisible(): string
     {
         $my_protect = 'Protect! ';
         
