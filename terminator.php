@@ -1,6 +1,8 @@
 <?php
 /**
  * Date: 19.11.2021
+ * Author: Alexander Kuziv 
+ * Email: alexander@makklays.com.ua
  */
 namespace mylife\office;
 
@@ -14,7 +16,7 @@ class Terminator()
   public function create(): string
   {
     // 
-    return 'Created ' . date('d.m.Y');
+    return 'Created ' . date('d.m.Y H:i');
   }
   
   public function giveName(): string
@@ -42,7 +44,11 @@ class Terminator()
     $words = [
       'delete',
       'go to ass',
-      '',
+      'seo',
+      'lead',
+      'team',
+      //'happends',
+      'case',
     ];
     
     return $words;  
