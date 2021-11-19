@@ -12,6 +12,7 @@ namespace mylife\office;
  * $copach = new Terminator('Debil');
  * $copach->setMission('Llavar los platos.'); // Llavé los platos.
  * $copach->addWord('Sam');
+ * $copach->addWord('Max');
  * $word = $copach->giveWord();
  * ```
  */
@@ -133,6 +134,9 @@ class Mosca()
 $copach = new Terminator('Debil');
 $copach->setMission('Llavar los platos.'); // Llavé los platos.
 $copach->addWord('Sam');
+$copach->addWord('Min');
+$copach->addWord('Max');
+$copach->addWord('Sum');
 $word = $copach->giveWord();
 
 echo '<pre>';
