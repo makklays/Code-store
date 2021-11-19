@@ -64,14 +64,18 @@ class Terminator()
   {
     $this->words = $this->useWords();
     $word = array_shufle($words);
-    // con esta matriz palabra primera 
+    // de esta matriz palabra primera 
     return $word;
   }
   
   public function addWord($new_word): boolean
   {
     $this->words = $this->useWords();
-    array_popup($this->words, $new_word);
+    if (array_popup($this->words, $new_word)) {
+      return true;
+    } else {
+      return false;
+    }
   }
 }
 
@@ -81,10 +85,14 @@ class Terminator()
 class Mosca()
 {
   public $nombre;
+  public $days_lives;
+  public $nacere;
   
   public function __construct(string $nombre)
   {
     $this->nombre = $nombre;
+    $this->days_lives = 1;
+    $this->nacere = time();
   }
   
   public function setNombre(string $nombre): string
@@ -96,10 +104,32 @@ class Mosca()
   {
     return $this->nombre;
   }
+  
+  public function getDaysLives(): int
+  {
+    $seconds = time() - $this->nacere;
+    
+    return $seconds / 86400 % 7;
+  }
 }
 
-$copach = new Terminator('Nastya');
-$copach->setMission('Llavar los platos.');
+$copach = new Terminator('Debil');
+$copach->setMission('Llavar los platos.'); // Llavé los platos.
+$copach->addWord('Sam');
+$word = $copach->giveWord();
+
+echo '<pre>';
+print_r($copach);
+print_r('Word => ' . $word);
+echo '</pre>';
+
 
 $mosca = new Mosca('Cat');
+$days_lives = $mosca->getDaysLives();
 
+echo '<pre>';
+print_r($mosca);
+print_r($days_lives);
+echo '</pre>';
+
+// Where are error(s) ?
