@@ -91,9 +91,10 @@ class Terminator()
 
 /**
  * Class Mosca
- *
- *
- *
+ * ```php
+ * $mosca = new Mosca('Mosca');
+ * $days_lives = $mosca->getDaysLives();
+ * ```
  */
 class Mosca()
 {
@@ -139,8 +140,7 @@ print_r($copach);
 print_r('Word => ' . $word);
 echo '</pre>';
 
-
-$mosca = new Mosca('Cat');
+$mosca = new Mosca('Mosca');
 $days_lives = $mosca->getDaysLives();
 
 echo '<pre>';
