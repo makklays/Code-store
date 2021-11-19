@@ -6,6 +6,15 @@
  */
 namespace mylife\office;
 
+/**
+ * Class Terminator 
+ * ```php
+ * $copach = new Terminator('Debil');
+ * $copach->setMission('Llavar los platos.'); // Llavé los platos.
+ * $copach->addWord('Sam');
+ * $word = $copach->giveWord();
+ * ```
+ */
 class Terminator()
 {
   public $name;
@@ -63,7 +72,8 @@ class Terminator()
   public function giveWord()
   {
     $this->words = $this->useWords();
-    $word = array_shufle($words);
+    shuffle($this->words);
+    $word = array_shift($this->words);
     // de esta matriz palabra primera 
     return $word;
   }
@@ -80,7 +90,10 @@ class Terminator()
 }
 
 /**
- * Mosca
+ * Class Mosca
+ *
+ *
+ *
  */
 class Mosca()
 {
@@ -108,11 +121,14 @@ class Mosca()
   public function getDaysLives(): int
   {
     $seconds = time() - $this->nacere;
+    $days = $seconds / 86400 % 7;
+    if ($days < 1) $days = 1;
     
-    return $seconds / 86400 % 7;
+    return $days;
   }
 }
 
+// utiliza
 $copach = new Terminator('Debil');
 $copach->setMission('Llavar los platos.'); // Llavé los platos.
 $copach->addWord('Sam');
