@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * Date: 19.11.2021
+ */
 namespace mylife\office;
 
 class Terminator()
