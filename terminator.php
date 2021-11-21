@@ -31,7 +31,7 @@ class Terminator()
   
   public function create(): string
   {
-    // 
+    // created date 
     return 'Created ' . date('d.m.Y H:i');
   }
   
