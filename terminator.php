@@ -128,6 +128,17 @@ class Mosca()
     
     return $days;
   }
+  
+  public function makeSex(Mosca $otraMosca): Mosca|null
+  {
+    // make sex
+    if ($otraMosca instanceof Mosca) {
+      $mosca = new Mosca($otraMosca->getNombre.'-'.$this->getNombre);
+      return $mosca;
+    }
+    
+    return null;
+  }
 }
 
 // utiliza
