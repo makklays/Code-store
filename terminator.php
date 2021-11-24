@@ -13,6 +13,7 @@ namespace mylife\office;
  * $copach->setMission('Llavar los platos.'); // Llavé los platos.
  * $copach->addWord('Sam');
  * $copach->addWord('Max');
+ * $copach->addWord('Min');
  * $word = $copach->giveWord();
  * ```
  */
@@ -65,6 +66,7 @@ class Terminator()
       'team',
       //'happends',
       'case',
+      'hasta la vista',
     ];
     
     return $this->words;  
