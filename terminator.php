@@ -159,12 +159,15 @@ print_r($copach);
 print_r('Word => ' . $word);
 echo '</pre>';
 
-$mosca = new Mosca('Mosca');
-$days_lives = $mosca->getDaysLives();
+$mosca_man = new Mosca('Mujer');
+$mosca_girl = new Mosca('Hombre');
+$days_lives = $mosca_man->getDaysLives();
+// Mosca tiene gender ?) no lo se 
+$moscita = $mosca_girl->makeSex($mosca_man);
 
 echo '<pre>';
-print_r($mosca);
 print_r($days_lives);
+print_r($moscita);
 echo '</pre>';
 
 // Where are error(s) ?
