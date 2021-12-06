@@ -16,6 +16,7 @@ namespace mylife\office;
  * $copach->addWord('Min');
  * $word = $copach->giveWord();
  * ```
+ * ¿Que esta haciendo Terminator?
  */
 class Terminator()
 {
