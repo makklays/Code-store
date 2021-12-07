@@ -12,3 +12,6 @@ Imaginamos la entravista de PHP en español:
 
 - ¿Cuál es la diferencia entre de una funcción y una procedure?
 - La funcción tiene la palabra de llave "return" y devolver value. Y una procedure no lo tiene. 
+
+- ¿Que significa Frameworke?
+- Frameworke es los archivos php, js, css, etz.
