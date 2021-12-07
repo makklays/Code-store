@@ -14,4 +14,4 @@ Imaginamos la entravista de PHP en español:
 - La funcción tiene la palabra de llave "return" y devolver value. Y una procedure no lo tiene. 
 
 - ¿Que significa Frameworke?
-- Frameworke es los archivos php, js, css, etz.
+- Frameworke es los archivos php, js, css, etz. Con estructura especiale. 
