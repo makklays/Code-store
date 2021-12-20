@@ -1,4 +1,4 @@
-
+Responde Alexander Kuziv.
 Imaginamos la entravista de PHP en español:
 
 - ¿Que es un objeto?
@@ -15,3 +15,12 @@ Imaginamos la entravista de PHP en español:
 
 - ¿Que significa Frameworke?
 - Frameworke es los archivos php, js, css, etz. Con la estructura especiale. 
+
+- ¿Cuanto años es tu experiencia de trabajo con PHP?
+- Tengo más 14 años experiancia de trabajo en PHP.
+
+- ¿Tienes la experiencia con Laravel?
+- Tengo más 2 años experiancia de trabajo en Laravel.
+
+- ¿Tienes la experiencia de trabajo con Symfony?
+- Sí. Tengo experiencia de trabajo con Symfony.
