@@ -14,7 +14,13 @@ Imaginamos la entravista de PHP en español:
 - La funcción tiene la palabra de llave "return" y devolver value. Y una procedure no lo tiene. 
 
 - ¿Que significa Frameworke?
-- Frameworke es los archivos php, js, css, etz. Con la estructura especiale. 
+- Frameworke es los archivos php, js, css, etz. Con la estructura especiale y MVC.
+
+- ¿Que es MVC?
+- MCV - eso es acronimo de Modelo Controlador Visto. 
+  El Modelo utiliza para escribir las tablas de base de datos. 
+  El Controlador utiliza para excribir el código en PHP con utiliza diferentes funciónes.
+  Y el Visto para escribir HTML código, javascript, css y etc. Con las variables de PHP de Controlador.  
 
 - ¿Cuanto años es tu experiencia de trabajo con PHP?
 - Tengo más 14 años experiancia de trabajo en PHP.
@@ -24,3 +30,5 @@ Imaginamos la entravista de PHP en español:
 
 - ¿Tienes la experiencia de trabajo con Symfony?
 - Sí. Tengo experiencia de trabajo con Symfony.
+
+- ¿
