@@ -17,7 +17,7 @@ Imaginamos la entravista de PHP en español:
 - Frameworke es los archivos php, js, css, etz. Con la estructura especiale y MVC.
 
 - ¿Que es MVC?
-- MCV - eso es acronimo de Modelo Controlador Visto. 
+- MCV - eso es el acronimo de Modelo Controlador Visto. 
   El Modelo utiliza para escribir las tablas de base de datos. 
   El Controlador utiliza para excribir el código en PHP con utiliza diferentes funciónes.
   Y el Visto para escribir HTML código, javascript, css y etc. Con las variables de PHP de Controlador.  
@@ -31,4 +31,4 @@ Imaginamos la entravista de PHP en español:
 - ¿Tienes la experiencia de trabajo con Symfony?
 - Sí. Tengo experiencia de trabajo con Symfony.
 
-- ¿
+- 
