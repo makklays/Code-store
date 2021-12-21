@@ -23,7 +23,7 @@ Imaginamos la entravista de PHP en español:
   Y el Visto para escribir HTML código, javascript, css y etc. Con las variables de PHP de Controlador.  
 
 - ¿Cuanto años es tu experiencia de trabajo con PHP?
-- Tengo más 14 años experiancia de trabajo en PHP.
+- Tengo más 14 años experiancia de trabajo en PHP. Soy Programador PHP. Soy Desarrollador PHP.
 
 - ¿Tienes la experiencia con Laravel?
 - Tengo más 2 años experiancia de trabajo en Laravel.
