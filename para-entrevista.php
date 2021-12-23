@@ -31,4 +31,5 @@ Imaginamos la entravista de PHP en español:
 - ¿Tienes la experiencia de trabajo con Symfony?
 - Sí. Tengo experiencia de trabajo con Symfony.
 
-- 
+- ¿Tienes los conocimientos en REST API?
+- Sí. He realizado y he hecho varios REST API. 
