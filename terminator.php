@@ -24,6 +24,7 @@ class Terminator()
   public $hand = 'up';
   public $model = 'T700';
   public $mission;
+  public $label = 'good';
   
   public function __construct(string $name)
   {
@@ -31,10 +32,31 @@ class Terminator()
     $this->create();
   }
   
+  public function setBuenoLabel()
+  {
+    $this->label = 'good';
+  }
+  
+  public function setBadLabel()
+  {
+    $this->label = 'bad';
+  }
+  
+  public function getLabel(): string
+  {
+    return $this->label;
+  }
+  
   public function create(): string
   {
     // created date 
     return 'Created ' . date('d.m.Y H:i');
+  }
+  
+  public function info(): string
+  {
+    // full info
+    return $this;
   }
   
   public function giveName(): string
@@ -154,10 +176,12 @@ $copach->addWord('Min');
 $copach->addWord('Max');
 $copach->addWord('Sum');
 $word = $copach->giveWord();
+$label = $copach->getLabel();
 
 echo '<pre>';
 print_r($copach);
 print_r('Word => ' . $word);
+print_r($label)
 echo '</pre>';
 
 $mosca_man = new Mosca('Mujer');
