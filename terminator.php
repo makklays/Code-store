@@ -25,6 +25,7 @@ class Terminator()
   public $model = 'T700';
   public $mission;
   public $label = 'good';
+  public $material = 'airon';
   
   public function __construct(string $name)
   {
