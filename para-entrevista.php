@@ -48,4 +48,5 @@ Imaginamos la entravista de PHP en español:
   La secunda cosa es ..
   La tercera cosa es ...
 
-- 
+- ¿Que te ves en 6 meses?
+- El empleado del vuestra companía que el exito terminó el período de prueba y puede seguir trabajar en esta compania.    
