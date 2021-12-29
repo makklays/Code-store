@@ -41,6 +41,6 @@ Imaginamos la entravista de PHP en español:
 - Sí. He hecho maquetar paginas web con HTML, CSS, Saas, Bootstrap y simpleo con los tags @media para diferentes devices (he usando 'max screen').
 
 - ¿Hay una experiencia de trabajo con los sistemas de pago? En caso afirmativo, ¿con qué sistemas?
-- Sí. Tengo experiencia de utilizo Stripe API (simple Stripe sin utiliza Cashier en Laravel), PayPal API, LiqPay API.
+- Sí. Tengo experiencia con Stripe API (simple Stripe sin utilizar Cashier en Laravel), PayPal API, LiqPay API.
 
 - 
