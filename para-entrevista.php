@@ -43,4 +43,9 @@ Imaginamos la entravista de PHP en español:
 - ¿Hay una experiencia de trabajo con los sistemas de pago? En caso afirmativo, ¿con qué sistemas?
 - Sí. Tengo experiencia con Stripe API (simple Stripe sin utilizar Cashier en Laravel), PayPal API, LiqPay API.
 
+- ¿Puedes llamar tres cosas de tu trabajo que te sientes argulloso?
+- La primera cosa es saber Vuejs y utilizarlo. Eso es tecnoloqía moderna.
+  La secunda cosa es ..
+  La tercera cosa es ...
+
 - 
