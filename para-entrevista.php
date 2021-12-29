@@ -46,7 +46,7 @@ Imaginamos la entravista de PHP en español:
 - ¿Puedes llamar tres cosas de tu trabajo que te sientes argulloso?
 - La primera cosa es saber Vuejs y utilizarlo. Eso es tecnoloqía moderna en front-end. Y puedo maquetacion con Bootstrap (o sin lo) para diferentes dispositivos.
   La secunda cosa es saber todo el ciclo desarrollar REST API en back-end con Swagger.
-  La tercera cosa es ...
+  La tercera cosa es tener experiencia de trabajo con Stripe - el sistema de pago.
 
 - ¿Que te ves en 6 meses?
 - El empleado del vuestra companía que el exito terminó el período de prueba y puede seguir trabajar en esta compania.    
