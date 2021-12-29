@@ -44,7 +44,8 @@ Imaginamos la entravista de PHP en español:
 - Sí. Tengo experiencia con Stripe API (simple Stripe sin utilizar Cashier en Laravel), PayPal API, LiqPay API.
 
 - ¿Puedes llamar tres cosas de tu trabajo que te sientes argulloso?
-- La primera cosa es saber Vuejs y utilizarlo. Eso es tecnoloqía moderna en front-end. Y puedo maquetacion con Bootstrap (o sin lo) para diferentes dispositivos.
+- Sin Laravel.
+  La primera cosa es saber Vuejs y utilizarlo. Eso es tecnoloqía moderna en front-end. Y puedo maquetacion con Bootstrap (o sin lo) para diferentes dispositivos.
   La secunda cosa es saber todo el ciclo desarrollar REST API en back-end con Swagger.
   La tercera cosa es tener experiencia de trabajo con Stripe - el sistema de pago.
 
