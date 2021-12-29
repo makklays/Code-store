@@ -37,7 +37,10 @@ Imaginamos la entravista de PHP en español:
 - Y ¿desarrollés REST API con Vue.js en Front-end?
 - Sí. Tengo experiencia de trabajo con Vue.js y puedo trabajar como Full-stack desarrollador PHP.
 
-- ¿Tu puedes como Full-stack desarrollador PHP hace maguetar paginas web?
+- ¿Tu puedes como Full-stack desarrollador PHP hace maquetacion paginas web?
 - Sí. He hecho maquetar paginas web con HTML, CSS, Saas, Bootstrap y simpleo con los tags @media para diferentes devices (he usando 'max screen').
+
+- ¿Hay una experiencia de trabajo con los sistemas de pago? En caso afirmativo, ¿con qué sistemas?
+- Sí. Tengo experiencia de utilizo Stripe API (simple Stripe sin utiliza Cashier en Laravel), PayPal API, LiqPay API.
 
 - 
