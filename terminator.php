@@ -88,6 +88,7 @@ class Terminator()
       'seo',
       'lead',
       'team',
+      'dolgo',
       //'happends',
       'case',
       'hasta la vista',
