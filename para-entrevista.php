@@ -52,4 +52,11 @@ Imaginamos la entravista de PHP en español:
 - ¿Que te ves en 6 meses?
 - El empleado del vuestra companía que el exito terminó el período de prueba y puede seguir trabajar en esta compania.    
 
-- 
+- ¿Tienes experiencia de trabajo con MySQL?
+- Sí. Tengo más 14 años experiencia de trabajo con MySQL.
+
+- ¿Tienes experiencia de trabajo con PostgreSQL?
+- Sí. He trabajando con PostgreSQL apox 2 años. 
+
+- ¿Tienes experiencia de trabajo con Redis?
+- Sí. Tengo experiencia de trabajo con Redis.
