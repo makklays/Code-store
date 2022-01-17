@@ -10,4 +10,6 @@ if ($tiene_mensaje == 'Buenos días') {
   echo 'Soy amigo tuyo';
 } 
 
-
+if ($tiene_mensaje == 'algo') {
+  echo 'algo';
+} 
