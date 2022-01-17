@@ -9,3 +9,7 @@ if ($tiene_mensaje == 'Buenas noches') {
 if ($tiene_mensaje == 'Buenos días') {
   echo 'Soy amigo tuyo';
 } 
+
+if ($tiene_mensaje == 'Te amo') {
+  echo 'Te quiero';
+} 
