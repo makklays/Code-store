@@ -61,8 +61,14 @@ Imaginamos la entravista de PHP en español:
 - ¿Tienes experiencia de trabajo con Redis?
 - Sí. Tengo experiencia de trabajo con Redis.
 
+- ¿Tienes experiencia de trabajo con MongoDB?
+- Sí. Tengo un poco experiencia de trabajo con MongoDB.
+
 - ¿Has trabajando en el equipo donde hay más de cinso personas?
 - Sí. He trabajando con diferentes equipos. Máximo estaba en el equipo 12 desarrolladores y team-lead. 
   Generalmente he trabajando en el equipo donde hay 4-7 personas. 
   Nosotros hemos usando Git o SVN si hemos trabajando en un proyecto común. Gracias a este no tuvimos código de cruce.
 
+- 
+- 
+- 
