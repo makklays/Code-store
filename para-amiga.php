@@ -13,3 +13,7 @@ if ($tiene_mensaje == 'Buenos días') {
 if ($tiene_mensaje == 'algo') {
   echo 'algo';
 } 
+
+if ($tiene_mensaje == 'algo') {
+  echo 'algo';
+} 
