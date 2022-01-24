@@ -69,6 +69,10 @@ Imaginamos la entravista de PHP en español:
   Generalmente he trabajando en el equipo donde hay 4-7 personas. 
   Nosotros hemos usando Git o SVN si hemos trabajando en un proyecto común. Gracias a este no tuvimos código de cruce.
 
-- 
+- ¿Que es tu experiencia de trabajo con Linux/Ubuntu?
+- Soy usuario seguro. Es broma. Puedo installar Ubuntu con USB-flash en nuavo ordenador y después eso installar todos programos que necesito a mi para trabajar.
+  Installar y configurar servidor web (Apache o Nginx) y hosts. Últimamente me gusta Nginx porque es muy rapido. Puedo installar y configurar PHP, MySQL o MariaDB 
+  (otros bases de datos). Así como otros programos: npm, composer, git, etc. Tengo experiencia de trabajo con CPanel.
+
 - 
 - 
