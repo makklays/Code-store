@@ -74,5 +74,8 @@ Imaginamos la entravista de PHP en español:
   Installar y configurar servidor web (Apache o Nginx) y hosts. Últimamente me gusta Nginx porque es muy rapido. Puedo installar y configurar PHP, MySQL o MariaDB 
   (otros bases de datos). Así como otros programos: npm, composer, git, etc. Tengo experiencia de trabajo con CPanel.
 
-- 
+- ¿Cuando tu puedes venir a trabajar?
+- 1 mes
+
+- ¿Que es tu expectativas ...
 - 
