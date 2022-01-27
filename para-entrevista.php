@@ -77,5 +77,5 @@ Imaginamos la entravista de PHP en español:
 - ¿Cuando tu puedes venir a trabajar?
 - 1 mes
 
-- ¿Que es tu expectativas ...
+- ¿Cuál es tu expectativa salarial?
 - 
