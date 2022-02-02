@@ -29,7 +29,7 @@ Imaginamos la entravista de PHP en español:
 - Tengo más 2 años experiancia de trabajo en Laravel.
 
 - ¿Tienes la experiencia de trabajo con Symfony?
-- Sí. Tengo experiencia de trabajo con Symfony.
+- Sí. Tengo poco experiencia de trabajo con Symfony.
 
 - ¿Tienes los conocimientos en REST API?
 - Sí. He realizado y he hecho varios REST API. 
@@ -75,8 +75,8 @@ Imaginamos la entravista de PHP en español:
   (otros bases de datos). Así como otros programos: npm, composer, git, etc. Tengo experiencia de trabajo con CPanel.
 
 - ¿Cuando tu puedes venir a trabajar?
-- 1 mes
+- 15 días
 
-- ¿Cuál es tu expectativa salarial?
+- ¿Cuál es tu expectativa salaria?
 - 
 ¡
