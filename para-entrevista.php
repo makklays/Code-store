@@ -4,6 +4,10 @@ Imaginamos la entravista de PHP en español:
 - ¿Que es un objeto?
 - Un objeto es un instancia de clase
 
+- ¿Que significa POO?
+- POO es el acrónimo/abreviatura de Programación Orientada de Objetos. Eso es programación con clases y sus objetos. 
+  Personas acostumbradas a programar funciones.
+
 - ¿Cuantas clases puede heredar otra clase en PHP? 
 - En PHP un clase puede heredar solo una clase
 
