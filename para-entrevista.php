@@ -1,5 +1,5 @@
 Responde Alexander Kuziv.
-Imaginamos la entravista de PHP en español:
+Imaginamos la entrevista de PHP en español:
 
 - ¿Que es un objeto?
 - Un objeto es un instancia de clase
