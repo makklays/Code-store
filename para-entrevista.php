@@ -78,6 +78,11 @@ Imaginamos la entrevista de PHP en español:
   Installar y configurar servidor web (Apache o Nginx) y hosts. Últimamente me gusta Nginx porque es muy rapido. Puedo installar y configurar PHP, MySQL o MariaDB 
   (otros bases de datos). Así como otros programos: npm, composer, git, etc. Tengo experiencia de trabajo con CPanel.
 
+- ¿Que crees que puedes aportar a nuestra empresa que le haga diferente de otros candidados?
+- Puedo crecer con la empresa. Puedo proponer y desarrollar nuevos sitios web o nuevos proyectos que serán rentable y dinero para nuestra empresa. 
+  Puedo convertirse en TeamLead de departamento de TI. Puedo proponer abrir nuevos empresas y otros ciudades y otros paises. Y todo esto debería 
+  ser rentable y traer dinero.
+
 - ¿Cuando tu puedes venir a trabajar?
 - 15 días
 
