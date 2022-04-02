@@ -1,0 +1,27 @@
+/**
+ * Autor: Alexander Kuziv
+ * Email: hola.kuziv@gmail.com
+ *
+ * Las preguntas para Entrevista de PHP
+ **/
+ 
+- ¿Que es S.O.L.I.D.?
+- S.O.L.I.D. es los principos de programación y acronimo de las palabras Single, Open, Liscova, Interfase, Dependency Injection. Y ahora sobre cada palabra más detalles.
+  Single - es significa que cada clase recibi solo una tarea. Por ejemplo la clase con los functiónes para descargar y cargar los archivos no puede tener 
+     algunas functiones para crear nuevas migraciónes al base de datos.
+  Open - es cuando la clase abri para añadir y no abri para editar. En la practic, cuando cambió algo en el logico nosotros no editamos el codigo 
+     en diferentes lugares sino buscamos uno lugar cuando añadirimos nuevo logico que necesitamos implementar. 
+  Liscova - es el principo que el discription como el ejemplo sobre el triangel y el cuadro. 
+  Interfase - es el principo cuando hay que utitlizar las interfases para buena arcitectura la applicación. 
+     Cuando una interface se puede usar para diferentes clases. Porque una clase puede implemetar varias interfases y puede extends solo uno clase.
+  Dependency Injection - eso es el principo cuando utiliza y indica el typo de parametro en la función. 
+     No usa palabra 'new' para crear nuevo objeto en la función. Para eso es mejor indicar el typo (más mejor si indica typo de interface de clase) 
+     de clase que utilíza despues en logico de función.
+     
+- ¿Que es DRY?
+- DRY eso es el principo de programación tambíen. DRY es el acronimo Don't Repeat Youself. 
+
+- ¿Cuales typos de datos tu conoces en PHP?
+- integer, boolean, string, resorce, object, null, array. Eso es typos de datos estandartes en PHP version 5. 
+  En PHP vesrsion 7 y 8 aparece nuevas typos de datos así como mixing, y ademas typos de datos que tener 
+     dos diferent typos de datos (por ejempo null y string).
