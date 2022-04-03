@@ -4,7 +4,12 @@
  *
  * Las preguntas para Entrevista de PHP
  **/
- 
+  
+- ¿Que es PHP?
+- PHP es un lenguaje que no requiere de identación para ser interpretado. 
+  Por el contrario, todo el código fuente PHP puede ser escrito sin identación, aunque esto, eso práctica desaconsejada, 
+      ya que al igual que el código embebido, dificulta la lectura y la consecuente escalabilidad y mantemiento de la app.
+  
 - ¿Que es S.O.L.I.D.?
 - S.O.L.I.D. es los principos de programación y acronimo de las palabras Single, Open, Liscova, Interfase, Dependency Injection. Y ahora sobre cada palabra más detalles.
   Single - es significa que cada clase recibi solo una tarea. Por ejemplo la clase con los functiónes para descargar y cargar los archivos no puede tener 
