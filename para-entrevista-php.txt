@@ -8,7 +8,7 @@
 - ¿Que es PHP?
 - PHP es un lenguaje que no requiere de identación para ser interpretado. 
   Por el contrario, todo el código fuente PHP puede ser escrito sin identación, aunque esto, eso práctica desaconsejada, 
-      ya que al igual que el código embebido, dificulta la lectura y la consecuente escalabilidad y mantemiento de la app.
+  ya que al igual que el código embebido, dificulta la lectura y la consecuente escalabilidad y mantemiento de la app.
   
 - ¿Que es S.O.L.I.D.?
 - S.O.L.I.D. es los principos de programación y acronimo de las palabras Single, Open, Liscova, Interfase, Dependency Injection. Y ahora sobre cada palabra más detalles.
@@ -29,4 +29,36 @@
 - ¿Cuales typos de datos tu conoces en PHP?
 - integer, boolean, string, resorce, object, null, array. Eso es typos de datos estandartes en PHP version 5. 
   En PHP vesrsion 7 y 8 aparece nuevas typos de datos así como mixing, y ademas typos de datos que tener 
-     dos diferent typos de datos (por ejempo null y string).
+  dos diferent typos de datos (por ejempo null y string).
+
+- ¿Cuál ha sido tu experiencia desarrollando front y backend?
+- Creaba y desarrollaba verios sitios web desde cero como frontend y backend.
+  Como Desarrollador FullStack PHP creaba Vue-componentes en frontend. Creaba muchas páginas HTML web con Bootstrap y simplemente con tag @media 
+  para plantillas diferentes. Creaba AJAX en páginas web. 
+  Como Desarrollador PHP desarrollaba la arcitectura de base de datos con muchas tablas, creaba los migrations para las tablas de base de datos, 
+  desarrollaba REST API (con siguientes métodos: GET, POST, PUT, PATCH, DELETE). 
+
+- Explique detalladamente cuáles son sus funciones en su actual trabajo, si no estuviese trabajando, indique cuales eran sus funciones en 
+  su anterior puesto de trabajo?
+- Tengo más 14 años experiencia de trabajo como Desarrollador FullStack PHP.
+  Creaba varios sitios web desde cero. Últimamente 3 años desarrollaba en Laravel con Vue.js y jQuery. 
+  Puedo installar y configurar servidor web desde cero para trabajo (nginx, php-fpm, npm, docker, mariadb, mysql, etc.).
+  Creaba muchas formas con verificación. Hacía enviar email con sitio web. Usaba Maps Google API, Stripe API para comprar algo de sitio web. 
+  Desarrollaba REST API para frontend y applicación movíl.
+
+- ¿Cuánto tiempo de experiencia tienes como programador/a PHP con framework Symfony o Laravel?
+- Laravel - más 3 años
+  Symfony - aprox 1 año
+  Últimamente 3 años trabajo como Desarrollador FullStack PHP (Laravel y Vue.js). Creaba y útilizaba en Laravel Facade, FormRequest, Job, etc.
+  Tengo más 14 años experiencia de trabajo con PHP, MySQL. 
+  Tengo los ejemplos de código en los repositios de GitHub: https://github.com/makklays/
+
+- Detalle brevemente su experiencia como TeamLead de Equipo TI.
+- Tengo más 14 años experiencia de trabajo en TI.
+  Tengo experiencia como TeamLead en equipo. Puedo crear las tareas para la departamento de TI. 
+  Tengo experiencia de controllado el processo de trabajo mi equipo. Puedo crear las tareas y planear la tiempo y las resultados mi trabajo, 
+  y resultado de trabajo mi equipo. Participaba y organizaba el reunion (meeting). Sé y útilizaba Agile (SCRUM). 
+  Hacía cada viernes los reportes a mi director de departamento TI. Mantenieba buenas relaciones con mis collegas. 
+  Siempre tengo interesar en obtener ganancias nuestra companía. Puedo aprender rapido nuevos. 
+  Tengo experiencia de trabajo como el jefe de departamento con 8 empleados.
+
