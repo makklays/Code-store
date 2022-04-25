@@ -20,6 +20,8 @@ if ($tiene_mensaje == 'algo') {
   echo 'algo';
 } 
 
+$pregunta = '¿Qué es amor?';
+
 // 
 //
 //
