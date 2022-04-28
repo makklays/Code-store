@@ -10,6 +10,10 @@
   Por el contrario, todo el código fuente PHP puede ser escrito sin identación, aunque esto, eso práctica desaconsejada, 
   ya que al igual que el código embebido, dificulta la lectura y la consecuente escalabilidad y mantemiento de la app.
   
+- ¿Qué es S.O.L.I.D. y para qué sirve?
+- Solid es un acrónimo inventado por Robert C. Martin para establecer los cinco principios básicos de la programación orientada a objetos y diseño. 
+  Este acrónimo tiene bastante relación con los patrones de diseño, en especial, con la alta cohesión y el bajo acoplamiento.  
+  
 - ¿Que es S.O.L.I.D.?
 - S.O.L.I.D. es los principos de programación y acronimo de las palabras Single, Open, Liscova, Interfase, Dependency Injection. Y ahora sobre cada palabra más detalles.
   Single - es significa que cada clase recibi solo una tarea. Por ejemplo la clase con los functiónes para descargar y cargar los archivos no puede tener 
