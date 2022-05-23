@@ -72,8 +72,9 @@ $fecha_candidado = $ucrania->getFechaCandidadoEEUU();
 $fecha_miembro   = $ucrania->getFechaMiembroEEUU();
 
 if ('d-m-Y' <= $fecha_candidado && $fecha_candidado <= 'd-m-Y') {
-  echo 'Muy perfecto';
+  echo 'Muy perfecto para el candidado.';
 } else {
-  echo 'Rapido';
+  echo 'Rapido para el candidado.';
 }
+
 
