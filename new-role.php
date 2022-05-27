@@ -129,6 +129,14 @@ class NewRole implements DeveloperPHPInterface
         return $my_protect;
     }
     
+    //
+    static public function countDaysComoDesarrollador(): int
+    {
+        // TODO
+        $countDaysComoDesarrollador = '';
+        
+        return $countDaysComoDesarrollador;
+    }
 }
 
 ?>
