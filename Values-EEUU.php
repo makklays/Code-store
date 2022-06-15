@@ -43,8 +43,16 @@ trait ValueEEUU()
           '3' => 'liberté',
           '4' => 'démocratie',
           '5' => 'égalité',
-          '6' => 'État de droit',
+          '6' => 'état de droit',
       ],
   ];
+  
+  // Estoy pensando... 
+  // Por ejemplo 6
+  // Estado de derecho
+  // ¿Que es tus reglas?
+  // Yo sé 10 reglas de cristianas, las reglas de católicos y otros pueblos.
+  // ¿Que es tus reglas en este país?
+  
 }
 
