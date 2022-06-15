@@ -50,9 +50,11 @@ trait ValueEEUU()
   // Estoy pensando... 
   // Por ejemplo 6
   // Estado de derecho
-  // ¿Que es tus reglas?
+  // ¿Cuáles son tus reglas?
   // Yo sé 10 reglas de cristianas, las reglas de católicos y otros pueblos.
-  // ¿Que es tus reglas en este país?
+  // ¿Cuáles son tus reglas en este país?
+  
+  // Якi правила у вашiй краiнi? 
   
 }
 
