@@ -37,6 +37,14 @@ trait ValueEEUU()
           '5' => 'рівноправність',
           '6' => 'правова держава',
       ],
+      'fr' => [
+          '1' => 'le respect de la dignité humaine',
+          '2' => 'respect des droits de l’homme',
+          '3' => 'liberté',
+          '4' => 'démocratie',
+          '5' => 'égalité',
+          '6' => 'État de droit',
+      ],
   ];
 }
 
