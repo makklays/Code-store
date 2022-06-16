@@ -45,6 +45,14 @@ trait ValueEEUU()
           '5' => 'égalité',
           '6' => 'état de droit',
       ],
+      'de' => [
+          '1' => 'Achtung der Würde des Menschen',
+          '2' => 'Achtung der Menschenrechte',
+          '3' => 'Freiheit',
+          '4' => 'Demokratie',
+          '5' => 'Gleichberechtigung',
+          '6' => 'Rechtsstaat',
+      ],
   ];
   
   // Estoy pensando... 
