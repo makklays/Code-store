@@ -53,6 +53,14 @@ trait ValueEEUU()
           '5' => 'Gleichberechtigung',
           '6' => 'Rechtsstaat',
       ],
+      'it' => [
+          '1' => 'rispetto della dignità umana',
+          '2' => 'rispetto dei diritti umani',
+          '3' => 'libertà',
+          '4' => 'democrazia',
+          '5' => 'parità',
+          '6' => 'stato governato dalla legge',
+      ],
   ];
   
   // Estoy pensando... 
