@@ -64,5 +64,8 @@ trait ValueEEUU()
   
   // Якi правила у вашiй краiнi? 
   
+  // Ucrania en EEUU es el miembro de EEUU (la fecha 24 octubre 2022)
+  // ¿Qué fecha? 24 de octubre 2022 
+  
 }
 
